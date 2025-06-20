@@ -88,7 +88,7 @@ Typical dependencies include:
 ## 📁 File Structure
 
 ```
-├── app.py                     # Streamlit app (rename .txt to .py)
+├── app.py                     # Streamlit app (.py)
 ├── notebook.ipynb             # Jupyter notebook for model development
 ├── best_model.pkl             # Trained model file
 ├── scaler_y.pkl               # Target scaler
